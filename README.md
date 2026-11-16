@@ -1,3 +1,5 @@
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
+
 # x-post-cowork-claude-skill
 
 Publish posts to **X (Twitter)** via **Claude Cowork / Claude Code** browser automation using **Claude in Chrome** tools.
